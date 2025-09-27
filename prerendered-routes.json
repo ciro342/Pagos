@@ -1,0 +1,7 @@
+{
+  "routes": [
+    "/",
+    "/features/pago-forms",
+    "/features/pago-list"
+  ]
+}
